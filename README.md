@@ -1,2 +1,2 @@
-# learn-cors
-Learn about cors
+# Links
+- https://dev.to/lydiahallie/cs-visualized-cors-5b8h
